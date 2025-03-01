@@ -1,0 +1,23 @@
+{
+  "name": "node_kubernetes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rkcptraining/node_kubernetes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rkcptraining/node_kubernetes/issues"
+  },
+  "homepage": "https://github.com/Rkcptraining/node_kubernetes#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
